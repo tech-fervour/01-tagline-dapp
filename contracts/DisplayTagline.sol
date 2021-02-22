@@ -40,7 +40,7 @@ contract DisplayTagline {
 
         // setting the default value
         // into the contract's 'tagline' storage variable.
-        tagline = 'we write about blockchain';
+        tagline = 'Blockchain is the Future!';
     }
 
     // A public function that accepts a string argument
