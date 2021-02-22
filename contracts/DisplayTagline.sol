@@ -36,7 +36,7 @@ contract DisplayTagline {
      **/
 
     // Defining a constructor
-    constructor() {
+    constructor() public {
 
         // setting the default value
         // into the contract's 'tagline' storage variable.
