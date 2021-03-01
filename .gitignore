@@ -9,6 +9,8 @@ lerna-debug.log*
 
 # Contract's build directory
 build/
+vue-frontend/src/contracts/
+react-frontend/src/contracts/
 
 # Dependency directories
 node_modules/
