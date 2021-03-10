@@ -75,10 +75,10 @@ module.exports = {
   },
 
   // For use with Vuejs Frontend
-  // contracts_build_directory: './vue-frontend/src/contracts/',
+  contracts_build_directory: './vue-frontend/src/contracts/',
 
   // For use with Reactjs Frontend
-  contracts_build_directory: './react-frontend/src/contracts/',
+  // contracts_build_directory: './react-frontend/src/contracts/',
 
   // Set default mocha options here, use special reporters etc.
   mocha: {
